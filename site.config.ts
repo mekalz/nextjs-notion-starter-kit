@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Kuhnsan Zheng',
 
   // open graph metadata (optional)
-  description: 'A place to write my thoughts and processes of lifelong learning',
+  description: 'A place to keep my thoughts and processes of lifelong learning',
 
   // social usernames (optional)
   twitter: 'mekal_z',
